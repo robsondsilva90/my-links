@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000000 url("img/wallpaper_html3.jpg") no-repeat;
+}
+
+img {
+    border-radius: 20px;
+    width: 320px;
+    height: 320px;
+}
+
+h1 {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color: white;
+}
+
+ul {
+    margin-top: 35px;
+}
+
+li {
+    margin-bottom: 20px;
+    list-style: none;
+}
+
+a {
+    display: block;
+    background-color: yellow;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+
+a:hover {
+    background-color: white;
+}
+
+.container {
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
